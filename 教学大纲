@@ -1,0 +1,9 @@
+1.	爬虫介绍
+2.	简单介绍HTTP协议与网页结构
+3.	正则表达式
+4.	Requests库——以抓取豆瓣「流浪地球」影评为例
+5.	Xpath——解析豆瓣「流浪地球」影评
+6.	Beautifulsoup
+7.	Google Chrome抓包
+8.	Headers的设置——以破解知乎反爬为例
+9.	Pandas、MySQL简单介绍
